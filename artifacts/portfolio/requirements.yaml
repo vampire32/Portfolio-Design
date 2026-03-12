@@ -1,0 +1,18 @@
+packages:
+  "framer-motion": "For high-end scroll reveals, page transitions, and interactive micro-animations"
+  "react-icons": "For specific tech stack brand logos (react-icons/si)"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility function to efficiently merge Tailwind CSS classes"
+
+images:
+  - path: "artifacts/portfolio/public/images/hero-bg.png"
+    description: "High-end abstract glassmorphism gradient mesh background in deep navy blue and vibrant cyan with floating soft light leaks and subtle tech grid lines"
+    aspect_ratio: "16:9"
+  - path: "artifacts/portfolio/public/images/avatar.png"
+    description: "Stylized premium 3D avatar of a male software engineer in a dark moody lighting setup, facing forward with a subtle cyan rim light"
+    aspect_ratio: "1:1"
+
+notes:
+  - Frontend-only application with hardcoded data.
+  - Using CSS native smooth scrolling for navigation.
+  - Relies heavily on framer-motion for the requested premium feel.
